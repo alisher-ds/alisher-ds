@@ -1,12 +1,14 @@
-[README_en.md](https://github.com/user-attachments/files/30251459/README_en.md)
-
+[README_en (3).md](https://github.com/user-attachments/files/30251759/README_en.3.md)
 <div align="center">
 
-# Hi there, I'm Alisher 👋
-
-### 🤖 ML/AI Student @ Najot Ta'lim | 📊 Data Analysis & Data Science | 🛠️ Building things that help people
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:0D1117&height=200&section=header&text=Alisher%20Tuychiyev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML/AI%20Student%20%7C%20Builder%20of%20useful%20things&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Machine+Learning+Student;Telegram+Bot+Developer;Data+Science+Enthusiast;Building+Yordamchi+Bot+%F0%9F%A4%96" alt="Typing SVG" />
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=alisher-ds&color=2EA043&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/alisher-ds?style=for-the-badge&color=2EA043&labelColor=0D1117)
 
 </div>
 
@@ -28,14 +30,16 @@
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,js,ts,sklearn,pandas,git,github,vscode,linux&theme=dark" />
+
+<br><br>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -58,6 +62,18 @@
 </div>
 
 > 💡 **study-mate-bot** — a Telegram bot for students, built with Groq AI and Supabase, featuring an admin dashboard and a Telegram Mini App.
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/alisher-ds/alisher-ds/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> ⚙️ *This animation needs a one-time GitHub Action setup — I'll walk you through it below.*
 
 ---
 
@@ -98,8 +114,8 @@
 
 <div align="center">
 
-### "Knowledge is found by those who seek it" ✨
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<img src="https://komarev.com/ghpvc/?username=alisher-ds&label=Profile+Views&color=2EA043&style=flat" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EA043&height=120&section=footer" width="100%"/>
 
 </div>
