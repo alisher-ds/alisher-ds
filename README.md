@@ -17,8 +17,6 @@
 ### 🧠 About Me
 
 - 🎓 Studying **Machine Learning** at **Najot Ta'lim**
-- 🏫 Student at Abdulla Oripov Creative School
-- 🔭 Currently working on: **study-mate-bot**
 - 🌱 Currently learning: ML algorithms (Regression, Classification), model evaluation & feature engineering — heading toward Deep Learning
 - 💬 Reach out to me through the links below
 - ⚡ Interests: artificial intelligence, startups, philosophy and literature
