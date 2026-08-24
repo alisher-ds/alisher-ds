@@ -1,119 +1,137 @@
-[README_en (3).md](https://github.com/user-attachments/files/30251759/README_en.3.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:0D1117&height=200&section=header&text=Alisher%20Tuychiyev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML/AI%20Student%20%7C%20Builder%20of%20useful%20things&descAlignY=55&descSize=18" width="100%"/>
+# Alisher Tuychiyev
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Machine+Learning+Student;Telegram+Bot+Developer;Data+Science+Enthusiast;Building+Yordamchi+Bot+%F0%9F%A4%96" alt="Typing SVG" />
+**Machine Learning · AI Systems · Software Engineering**
 
-<br>
+Building practical AI products, intelligent workflows, and developer-focused tools.
 
-![Profile Views](https://komarev.com/ghpvc/?username=alisher-ds&color=2EA043&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/alisher-ds?style=for-the-badge&color=2EA043&labelColor=0D1117)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alisher-ds)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisher-tuychiyev-9aa570349)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Alisher_Tuychiyev)
 
 </div>
 
 ---
 
-### 🧠 About Me
+## About
 
-- 🎓 Studying **Machine Learning** at **Najot Ta'lim**
-- 🌱 Currently learning: ML algorithms (Regression, Classification), model evaluation & feature engineering — heading toward Deep Learning
-- 💬 Reach out to me through the links below
-- ⚡ Interests: artificial intelligence, startups, philosophy and literature
-- 📍 Qashqadaryo, Uzbekistan
+I am a Machine Learning student focused on turning ideas into working software.
 
----
+My current work sits at the intersection of **machine learning, LLM applications, retrieval systems, AI agents, and modern web engineering**.
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,sklearn,pandas,git,github,vscode,linux&theme=dark" />
-
-<br><br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-
-</div>
+I care about building things that are useful in practice — not just demos — with an emphasis on clean architecture, automation, and continuous improvement.
 
 ---
 
-### 🚀 My Projects
+## Focus
 
-<div align="center">
-
-<a href="https://github.com/alisher-ds/study-mate-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisher-ds&repo=study-mate-bot&theme=dark&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/alisher-ds/edubot-miniapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisher-ds&repo=edubot-miniapp&theme=dark&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/alisher-ds/edubot-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisher-ds&repo=edubot-pro&theme=dark&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
-> 💡 **study-mate-bot** — a Telegram bot for students, built with Groq AI and Supabase, featuring an admin dashboard and a Telegram Mini App.
+```text
+Machine Learning     →  model development, evaluation, applied ML
+LLM Applications     →  RAG, semantic search, AI-assisted workflows
+AI Agents            →  research, editorial pipelines, automation
+Software Engineering →  APIs, databases, web apps, deployment
+```
 
 ---
 
-### 🐍 Contribution Snake
+## Selected Work
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://raw.githubusercontent.com/alisher-ds/alisher-ds/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+### TG-BlogPost
 
-</div>
+AI-powered content automation system built around agentic workflows, editorial processing, scheduled publishing, and Telegram integration.
 
-> ⚙️ *This animation needs a one-time GitHub Action setup — I'll walk you through it below.*
+**Cloudflare · D1 · TypeScript · AI Agents**
+
+[Repository →](https://github.com/alisher-ds/TG-BlogPost)
+
+</td>
+<td width="50%">
+
+### Study Mate
+
+RAG-based learning assistant that processes educational documents and answers questions using retrieval and language models.
+
+**Python · ChromaDB · Embeddings · Groq**
+
+[Repository →](https://github.com/alisher-ds/study-mate-bot)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Imkon AI
+
+Opportunity discovery platform designed to help users find relevant jobs, internships, grants, and learning opportunities.
+
+**Next.js · TypeScript · Supabase · PostgreSQL**
+
+[Repository →](https://github.com/alisher-ds/imkon-ai)
+
+</td>
+<td width="50%">
+
+### Oydin
+
+A personal thinking and knowledge space for writing, connecting, and exploring ideas through a focused web experience.
+
+**JavaScript · CSS · Cloudflare · Testing**
+
+[Repository →](https://github.com/alisher-ds/oydin-uz)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+## Technology
 
-<div align="center">
+**Languages**
 
-<img src="https://github-readme-stats.vercel.app/api?username=alisher-ds&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alisher-ds&theme=dark&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043" width="48%" />
+`Python` `TypeScript` `JavaScript` `SQL`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisher-ds&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EA043" width="50%" />
+**AI / ML**
 
-</div>
+`scikit-learn` `Pandas` `NumPy` `Sentence Transformers` `RAG` `Embeddings` `LLMs`
 
----
+**Application Development**
 
-### 🏆 GitHub Profile Trophies
+`React` `Next.js` `Vite` `Tailwind CSS` `Telegram Mini Apps`
 
-<div align="center">
+**Backend / Infrastructure**
 
-<img src="https://github-profile-trophy.vercel.app/?username=alisher-ds&theme=darkhub&no-frame=true&row=1&column=6" />
-
-</div>
+`Cloudflare Workers` `D1` `Supabase` `PostgreSQL` `Git` `GitHub`
 
 ---
 
-### 📫 Let's Connect
+## Engineering Principles
 
-<div align="center">
+- Build for real users, not only for demos.
+- Prefer simple architecture until complexity is justified.
+- Measure and test systems instead of relying on intuition.
+- Automate repetitive work wherever it makes sense.
+- Learn by building, shipping, and iterating.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisher-tuychiyev-9aa570349)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alisher_Tuychiyev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishertuuchiyev@gmail.com)
+---
 
-</div>
+## Currently
+
+Deepening my understanding of **machine learning and AI systems** while building increasingly production-oriented projects.
+
+My goal is straightforward: **become an engineer who can take an AI idea from concept to a reliable, usable product.**
 
 ---
 
 <div align="center">
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+### Let's build something useful.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EA043&height=120&section=footer" width="100%"/>
+[Portfolio](https://github.com/alisher-ds) · [LinkedIn](https://www.linkedin.com/in/alisher-tuychiyev-9aa570349) · [Telegram](https://t.me/Alisher_Tuychiyev)
 
 </div>
