@@ -1,0 +1,33 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0D1117"/>
+    <stop offset="0.55" stop-color="#111827"/>
+    <stop offset="1" stop-color="#0B1220"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="160" y1="40" x2="1050" y2="280" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#58A6FF"/>
+    <stop offset="1" stop-color="#7C3AED"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<path d="M0 265C210 205 335 300 535 250C760 194 860 76 1200 135" stroke="#58A6FF" stroke-opacity=".09" stroke-width="1"/>
+<path d="M0 285C225 225 355 320 555 268C775 210 900 105 1200 160" stroke="#A78BFA" stroke-opacity=".08" stroke-width="1"/>
+<g stroke="url(#accent)" stroke-opacity=".22" stroke-width="1">
+  <path d="M760 74L850 126L942 84L1038 145L1120 102"/><path d="M850 126L886 218L1010 206L1038 145"/><path d="M942 84L1010 206"/><path d="M760 74L886 218"/>
+</g>
+<g fill="#58A6FF" filter="url(#glow)"><circle cx="760" cy="74" r="3"/><circle cx="850" cy="126" r="4"/><circle cx="942" cy="84" r="3"/><circle cx="1038" cy="145" r="4"/><circle cx="1120" cy="102" r="3"/><circle cx="886" cy="218" r="3"/><circle cx="1010" cy="206" r="4"/></g>
+<g opacity=".18" stroke="#94A3B8" stroke-width="1"><path d="M720 35H1150"/><path d="M720 285H1150"/><path d="M720 35V285"/><path d="M1150 35V285"/></g>
+<text x="72" y="120" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Alisher Tuychiyev</text>
+<text x="75" y="166" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600">MACHINE LEARNING  ·  AI SYSTEMS  ·  SOFTWARE ENGINEERING</text>
+<text x="75" y="210" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="17">Building practical AI products, intelligent workflows, and useful software.</text>
+<rect x="75" y="239" width="92" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<text x="121" y="259" text-anchor="middle" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">AI / ML</text>
+<rect x="177" y="239" width="92" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<text x="223" y="259" text-anchor="middle" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">RAG</text>
+<rect x="279" y="239" width="108" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<text x="333" y="259" text-anchor="middle" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">AI Agents</text>
+<rect x="397" y="239" width="124" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<text x="459" y="259" text-anchor="middle" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Product Engineering</text>
+</svg>
