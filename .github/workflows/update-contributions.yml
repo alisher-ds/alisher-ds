@@ -27,7 +27,7 @@ jobs:
 
       - name: Commit generated card
         run: |
-          if git diff --quiet -- assets/contributions.svg; then
+          if [ -z "$(git status --porcelain -- assets/contributions.svg)" ]; then
             echo "Contribution card is already up to date."
             exit 0
           fi
