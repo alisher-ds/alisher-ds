@@ -13,83 +13,54 @@
 
 <br/>
 
-## Profile
+## About
 
-I build **AI-powered products and software systems** with a focus on machine learning, LLM applications, retrieval, agents, and automation.
+I’m a Machine Learning student focused on **building practical AI systems** — from models and retrieval pipelines to agentic workflows and production-oriented software.
 
-My approach is practical: understand the problem, build a useful system, validate it, ship it, then improve it.
-
----
-
-## Areas of Work
-
-<table>
-<tr>
-<td width="25%" align="center"><strong>Machine Learning</strong><br/><sub>Applied ML · Evaluation · Data</sub></td>
-<td width="25%" align="center"><strong>LLM Systems</strong><br/><sub>RAG · Embeddings · Semantic Search</sub></td>
-<td width="25%" align="center"><strong>AI Agents</strong><br/><sub>Research · Workflows · Automation</sub></td>
-<td width="25%" align="center"><strong>Product Engineering</strong><br/><sub>Web · APIs · Infrastructure</sub></td>
-</tr>
-</table>
+I’m particularly interested in the layer between **AI research and useful products**: designing the system, evaluating it, shipping it, and learning from real usage.
 
 ---
 
-## Selected Work
+## Focus
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| | Area | What I work with |
+|:--:|:--|:--|
+| **01** | **Machine Learning** | Applied ML · Data · Evaluation |
+| **02** | **LLM Systems** | RAG · Embeddings · Semantic Search · LLM Applications |
+| **03** | **AI Agents** | Research Pipelines · Tool Use · Automation · Workflows |
+| **04** | **Software Engineering** | APIs · Web Applications · Cloud Infrastructure · Testing |
 
-### [TG-BlogPost](https://github.com/alisher-ds/TG-BlogPost)
+---
 
-**Agentic content automation**
+## Selected Projects
 
-A multi-stage AI workflow for research, editorial processing, quality control, scheduling, and Telegram publishing.
+### [TG-BlogPost](https://github.com/alisher-ds/TG-BlogPost) · Agentic Content Automation
 
-`TypeScript` `Cloudflare` `D1` `AI Agents`
+A multi-stage AI system that researches topics, generates editorial drafts, performs quality checks, schedules content, and publishes to Telegram with human approval in the loop.
 
-</td>
-<td width="50%" valign="top">
+`TypeScript` `Cloudflare Workers` `D1` `Gemini` `AI Agents`
 
-### [Study Mate](https://github.com/alisher-ds/study-mate-bot)
+### [Study Mate](https://github.com/alisher-ds/study-mate-bot) · RAG Learning Assistant
 
-**RAG learning assistant**
-
-Processes educational documents, retrieves relevant context, and answers questions using embeddings, vector search, and LLMs.
+A document-based learning assistant built around retrieval: document processing, embeddings, semantic search, contextual retrieval, and LLM-generated answers.
 
 `Python` `ChromaDB` `Sentence Transformers` `Groq`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### [Imkon AI](https://github.com/alisher-ds/imkon-ai) · Opportunity Discovery
 
-### [Imkon AI](https://github.com/alisher-ds/imkon-ai)
-
-**Opportunity discovery platform**
-
-A platform for discovering jobs, internships, grants, and learning opportunities with search and personalized discovery in mind.
+A platform for discovering jobs, internships, grants, and learning opportunities, with search and personalized discovery as the core product direction.
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL`
 
-</td>
-<td width="50%" valign="top">
+### [Oydin](https://github.com/alisher-ds/oydin-uz) · Personal Knowledge System
 
-### [Oydin](https://github.com/alisher-ds/oydin-uz)
-
-**Personal knowledge system**
-
-A focused web space for writing, exploring ideas, and organizing personal knowledge with an emphasis on a polished user experience.
+A focused web product for writing, exploring ideas, and organizing personal knowledge with an emphasis on clarity and user experience.
 
 `JavaScript` `Cloudflare` `Testing` `Web`
 
-</td>
-</tr>
-</table>
-
 ---
 
-## Technology
+## Stack
 
 <div align="center">
 
@@ -99,38 +70,55 @@ A focused web space for writing, exploring ideas, and organizing personal knowle
 
 <br/>
 
-| Domain | Stack |
-|:--|:--|
-| **Languages** | Python · TypeScript · JavaScript · SQL |
-| **ML / Data** | scikit-learn · Pandas · NumPy · Sentence Transformers |
-| **LLM / AI** | RAG · Embeddings · LLMs · AI Agents · Semantic Search |
-| **Frontend** | React · Next.js · Vite · Tailwind CSS |
-| **Backend / Infra** | PostgreSQL · Supabase · Cloudflare Workers · D1 · Docker |
-| **Workflow** | Git · GitHub · CI/CD · Testing · Automation |
+**AI / ML**  ·  Python · scikit-learn · Pandas · NumPy · Sentence Transformers · RAG · Embeddings · LLMs · AI Agents
+
+**Software**  ·  TypeScript · JavaScript · React · Next.js · Vite · Tailwind CSS · APIs
+
+**Infrastructure**  ·  PostgreSQL · Supabase · Cloudflare Workers · D1 · Docker · GitHub Actions
 
 ---
 
-## How I Build
+## Engineering Approach
 
 ```text
-Problem
-  ↓
-Research & model the system
-  ↓
-Smallest useful implementation
-  ↓
-Test & validate
-  ↓
-Deploy
-  ↓
+Understand the problem
+        ↓
+Model the system
+        ↓
+Build the smallest useful version
+        ↓
+Measure & validate
+        ↓
+Ship
+        ↓
 Observe → iterate → improve
 ```
 
-I prefer **clear systems over unnecessary complexity** and real validation over assumptions.
+I value **simple architecture, explicit trade-offs, measurable results, and software that is actually useful**.
 
 ---
 
-## GitHub
+## Current Direction
+
+```text
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+RAG & Retrieval
+      ↓
+LLM Applications
+      ↓
+AI Agents
+      ↓
+Production AI Systems
+```
+
+Currently focused on turning individual AI techniques into **reliable, end-to-end systems**.
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
@@ -145,19 +133,11 @@ I prefer **clear systems over unnecessary complexity** and real validation over 
 
 ---
 
-## Current Direction
-
-**Machine Learning → Deep Learning → RAG → LLM Systems → AI Agents → Production AI**
-
-Building toward the ability to take an AI idea from **concept → system → product → deployment**.
-
----
-
 <div align="center">
 
-### Build useful things. Ship them. Learn from them.
+**Build useful things. Ship them. Learn from them.**
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/alisher-ds">GitHub</a> ·
 <a href="https://www.linkedin.com/in/alisher-tuychiyev-9aa570349">LinkedIn</a> ·
