@@ -1,0 +1,21 @@
+<svg width="1200" height="270" viewBox="0 0 1200 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <linearGradient id="line" x1="80" y1="205" x2="1120" y2="60" gradientUnits="userSpaceOnUse"><stop stop-color="#58A6FF" stop-opacity=".2"/><stop offset=".5" stop-color="#58A6FF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="270" rx="18" fill="url(#bg)"/>
+<text x="56" y="45" fill="#F0F6FC" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">Contribution activity</text>
+<text x="56" y="70" fill="#8B949E" font-family="Arial,Helvetica,sans-serif" font-size="13">A visual snapshot of consistency, momentum, and engineering work.</text>
+<g opacity=".12" stroke="#8B949E" stroke-width="1"><path d="M56 102H1144"/><path d="M56 139H1144"/><path d="M56 176H1144"/><path d="M56 213H1144"/></g>
+<g fill="#161B22" stroke="#21262D"><rect x="56" y="91" width="18" height="18" rx="4"/><rect x="82" y="91" width="18" height="18" rx="4"/><rect x="108" y="91" width="18" height="18" rx="4"/><rect x="134" y="91" width="18" height="18" rx="4"/><rect x="160" y="91" width="18" height="18" rx="4"/><rect x="186" y="91" width="18" height="18" rx="4"/><rect x="212" y="91" width="18" height="18" rx="4"/></g>
+<g fill="#0E4429"><rect x="56" y="115" width="18" height="18" rx="4"/><rect x="108" y="115" width="18" height="18" rx="4"/><rect x="186" y="115" width="18" height="18" rx="4"/><rect x="238" y="115" width="18" height="18" rx="4"/></g>
+<g fill="#006D32"><rect x="82" y="139" width="18" height="18" rx="4"/><rect x="134" y="139" width="18" height="18" rx="4"/><rect x="212" y="139" width="18" height="18" rx="4"/><rect x="290" y="139" width="18" height="18" rx="4"/></g>
+<g fill="#26A641"><rect x="108" y="163" width="18" height="18" rx="4"/><rect x="160" y="163" width="18" height="18" rx="4"/><rect x="238" y="163" width="18" height="18" rx="4"/><rect x="316" y="163" width="18" height="18" rx="4"/><rect x="368" y="163" width="18" height="18" rx="4"/></g>
+<g fill="#39D353"><rect x="134" y="187" width="18" height="18" rx="4"/><rect x="212" y="187" width="18" height="18" rx="4"/><rect x="264" y="187" width="18" height="18" rx="4"/><rect x="342" y="187" width="18" height="18" rx="4"/><rect x="420" y="187" width="18" height="18" rx="4"/></g>
+<path d="M56 218 C150 211 190 174 270 182 C350 190 382 132 470 151 C560 170 590 108 680 126 C770 144 810 82 900 100 C990 118 1030 61 1144 76" stroke="url(#line)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+<g fill="#58A6FF" filter="url(#glow)"><circle cx="56" cy="218" r="4"/><circle cx="270" cy="182" r="4"/><circle cx="470" cy="151" r="4"/><circle cx="680" cy="126" r="4"/><circle cx="900" cy="100" r="4"/><circle cx="1144" cy="76" r="4"/></g>
+<rect x="870" y="184" width="274" height="43" rx="10" fill="#161B22" stroke="#30363D"/>
+<text x="889" y="202" fill="#8B949E" font-family="Arial,Helvetica,sans-serif" font-size="11">ENGINEERING MOMENTUM</text>
+<text x="889" y="219" fill="#F0F6FC" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="600">Build → ship → learn → improve</text>
+</svg>
