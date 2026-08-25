@@ -122,17 +122,11 @@ Currently focused on turning individual AI techniques into **reliable, end-to-en
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alisher-ds&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area_color=58A6FF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Alisher's GitHub contribution activity" />
+<img src="./assets/contributions.svg" width="100%" alt="Alisher's GitHub contribution activity — updated automatically" />
 
 </div>
 
 <br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisher-ds&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="38%" />
-
-</div>
 
 ---
 
