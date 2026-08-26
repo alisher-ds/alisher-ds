@@ -13,9 +13,9 @@
 
 ## About
 
-Machine Learning student focused on **building useful AI systems** — from ML and retrieval to LLM applications, agents, and production software.
+Machine Learning student building **practical AI systems** — from applied ML and retrieval to LLM applications, agents, and production software.
 
-I enjoy working at the intersection of **AI, software engineering, and real products**: understanding the problem, building the system, and shipping it.
+I care about turning ideas into **useful, reliable products**: understand the problem, design the system, ship it, and learn from it.
 
 ## Focus
 
