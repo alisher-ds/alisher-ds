@@ -118,15 +118,40 @@ Currently focused on turning individual AI techniques into **reliable, end-to-en
 
 ---
 
-## Contribution Activity
+## Engineering Pulse
 
 <div align="center">
 
-<img src="./assets/contributions.svg" width="100%" alt="Alisher's GitHub contribution activity — updated automatically" />
+<a href="https://github.com/alisher-ds?tab=overview"><img src="./assets/engineering-pulse.svg" width="100%" alt="Interactive Engineering Pulse — GitHub activity and selected systems" /></a>
 
 </div>
 
 <br/>
+
+<details>
+<summary><strong>Explore contribution activity</strong></summary>
+
+<br/>
+
+**Activity** — 347 contributions · 18 active days · 5 day best streak · 108 peak day
+
+The panel above is intentionally self-hosted. Metrics and project links are rendered from this profile repository rather than depending on a third-party contribution-card service.
+
+→ [Open GitHub activity](https://github.com/alisher-ds?tab=overview)
+
+</details>
+
+<details>
+<summary><strong>Explore selected systems</strong></summary>
+
+<br/>
+
+- **[TG-BlogPost](https://github.com/alisher-ds/TG-BlogPost)** — agentic content automation
+- **[Imkon AI](https://github.com/alisher-ds/imkon-ai)** — opportunity discovery
+- **[Study Mate](https://github.com/alisher-ds/study-mate-bot)** — retrieval-first learning assistant
+- **[Oydin](https://github.com/alisher-ds/oydin-uz)** — personal knowledge system
+
+</details>
 
 ---
 
