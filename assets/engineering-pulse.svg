@@ -26,13 +26,13 @@
     <a href="https://github.com/alisher-ds?tab=overview" target="_blank">
       <rect x="34" y="104" width="218" height="82" rx="12" fill="#161B22" stroke="#30363D"/>
       <text x="52" y="129" fill="#8B949E" font-size="10" font-weight="600">CONTRIBUTIONS</text>
-      <text x="52" y="157" fill="#F0F6FC" font-size="25" font-weight="700">353</text>
+      <text x="52" y="157" fill="#F0F6FC" font-size="25" font-weight="700">354</text>
       <text x="110" y="156" fill="#58A6FF" font-size="10">↗ year total</text>
     </a>
     <a href="https://github.com/alisher-ds?tab=overview" target="_blank">
       <rect x="272" y="104" width="218" height="82" rx="12" fill="#161B22" stroke="#30363D"/>
       <text x="290" y="129" fill="#8B949E" font-size="10" font-weight="600">CURRENT STREAK</text>
-      <text x="290" y="157" fill="#F0F6FC" font-size="25" font-weight="700">5</text>
+      <text x="290" y="157" fill="#F0F6FC" font-size="25" font-weight="700">1</text>
       <text x="315" y="156" fill="#58A6FF" font-size="10">days 🔥 active</text>
     </a>
     <a href="https://github.com/alisher-ds?tab=overview" target="_blank">
@@ -44,7 +44,7 @@
     <a href="https://github.com/alisher-ds?tab=overview" target="_blank">
       <rect x="748" y="104" width="218" height="82" rx="12" fill="#161B22" stroke="#30363D"/>
       <text x="766" y="129" fill="#8B949E" font-size="10" font-weight="600">ACTIVE DAYS</text>
-      <text x="766" y="157" fill="#F0F6FC" font-size="25" font-weight="700">19</text>
+      <text x="766" y="157" fill="#F0F6FC" font-size="25" font-weight="700">20</text>
       <text x="810" y="156" fill="#39D353" font-size="10">days (108 peak)</text>
     </a>
   </g>
