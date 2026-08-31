@@ -16,3 +16,4 @@ This repository houses the personal GitHub profile presentation for [@alisher-ds
 - Manual dispatch available via Actions tab.
 - Run 
 ode scripts/generate-contributions.mjs locally.
+- SVG assets use responsive viewBox scaling.
