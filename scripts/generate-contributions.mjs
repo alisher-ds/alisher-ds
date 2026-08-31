@@ -234,3 +234,5 @@ const engineeringPulseSvg = `<?xml version="1.0" encoding="UTF-8"?>
 
 writeFileSync("assets/engineering-pulse.svg", engineeringPulseSvg);
 
+console.log(`[profile-generator] Successfully updated assets (Total: ${total}, Current Streak: ${currentStreak}d, Best Streak: ${longestStreak}d).`);
+
