@@ -14,3 +14,5 @@ This repository houses the personal GitHub profile presentation for [@alisher-ds
 - `assets/contributions.svg`: Scalable vector contribution calendar.
 
 - Manual dispatch available via Actions tab.
+- Run 
+ode scripts/generate-contributions.mjs locally.
