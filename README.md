@@ -60,6 +60,8 @@
 
 <p align="center"><sub>Contribution activity · refreshed automatically</sub></p>
 
+<!-- Automated profile sync & metrics powered by GitHub Actions GraphQL pipeline -->
+
 ---
 
 <div align="center">
