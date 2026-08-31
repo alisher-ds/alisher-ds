@@ -12,3 +12,5 @@ This repository houses the personal GitHub profile presentation for [@alisher-ds
 - `assets/profile-header.svg`: Profile introduction header badge.
 - `assets/engineering-pulse.svg`: Real-time system pulse and metric cards.
 - `assets/contributions.svg`: Scalable vector contribution calendar.
+
+- Manual dispatch available via Actions tab.
