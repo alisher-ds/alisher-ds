@@ -74,7 +74,10 @@ for (let i = startIndex; i < revDays.length; i += 1) {
   }
 }
 
+/** Escape XML/SVG special characters */
 const esc = (value) => String(value).replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;");
+
+/** Map contribution count to corresponding GitHub theme color hex */
 const level = (count) => {
   if (count === 0) return "#161b22";
   if (count <= 2) return "#0e4429";
