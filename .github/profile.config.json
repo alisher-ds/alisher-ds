@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "username": "alisher-ds",
+    "theme": "dark",
+    "calendar": {
+      "cellSize": 11,
+      "cellGap": 3,
+      "cornerRadius": 2.5
+    },
+    "colors": {
+      "level0": "#161b22",
+      "level1": "#0e4429",
+      "level2": "#006d32",
+      "level3": "#26a641",
+      "level4": "#39d353"
+    }
+  }
+}
