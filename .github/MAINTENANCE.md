@@ -22,3 +22,4 @@ ode scripts/generate-contributions.mjs locally.
 - Workflows run with minimal required write scope.
 
 - 2026-09-01: Routine maintenance and health validation passed.
+- Telemetry metrics verified daily during routine sync.
