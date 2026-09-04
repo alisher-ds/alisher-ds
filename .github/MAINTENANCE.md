@@ -34,3 +34,4 @@ ode scripts/generate-contributions.mjs locally.
 - 2026-09-04: Ecosystem multi-repo telemetry verified across active projects.
 - CI workflows run on standard Ubuntu runners with Node 24 runtime.
 - GitHub camo proxy cache is invalidated on commit push via unique asset shas.
+- Streak logic dynamically normalizes UTC and user local timezone boundaries.
