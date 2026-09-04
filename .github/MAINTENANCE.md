@@ -35,3 +35,4 @@ ode scripts/generate-contributions.mjs locally.
 - CI workflows run on standard Ubuntu runners with Node 24 runtime.
 - GitHub camo proxy cache is invalidated on commit push via unique asset shas.
 - Streak logic dynamically normalizes UTC and user local timezone boundaries.
+- Workflow concurrency groups prevent concurrent execution collisions.
