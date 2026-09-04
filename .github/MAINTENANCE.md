@@ -32,3 +32,4 @@ ode scripts/generate-contributions.mjs locally.
 - Multi-timezone streak verification handles day-shift transitions seamlessly.
 
 - 2026-09-04: Ecosystem multi-repo telemetry verified across active projects.
+- CI workflows run on standard Ubuntu runners with Node 24 runtime.
