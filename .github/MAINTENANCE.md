@@ -38,3 +38,4 @@ ode scripts/generate-contributions.mjs locally.
 - Workflow concurrency groups prevent concurrent execution collisions.
 
 - 2026-09-05: Ecosystem multi-repo telemetry verified across active projects.
+- Workflow execution timeout capped at 10 minutes to prevent runaway runner jobs.
