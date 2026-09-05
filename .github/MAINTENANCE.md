@@ -39,3 +39,4 @@ ode scripts/generate-contributions.mjs locally.
 
 - 2026-09-05: Ecosystem multi-repo telemetry verified across active projects.
 - Workflow execution timeout capped at 10 minutes to prevent runaway runner jobs.
+- Camo cache purge headers configured for profile badges.
