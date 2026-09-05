@@ -36,3 +36,5 @@ ode scripts/generate-contributions.mjs locally.
 - GitHub camo proxy cache is invalidated on commit push via unique asset shas.
 - Streak logic dynamically normalizes UTC and user local timezone boundaries.
 - Workflow concurrency groups prevent concurrent execution collisions.
+
+- 2026-09-05: Ecosystem multi-repo telemetry verified across active projects.
