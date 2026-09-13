@@ -12,16 +12,6 @@
 
 </div>
 
-## Engineering Activity
-
-<div align="center">
-
-<a href="https://github.com/alisher-ds?tab=overview"><img src="./assets/engineering-pulse.svg" width="100%" alt="Alisher Tuychiyev — engineering activity and selected systems" /></a>
-
-</div>
-
-<p align="center"><sub>Built around real GitHub activity · updated automatically</sub></p>
-
 ## Tech Stack
 
 <div align="center">
@@ -54,7 +44,11 @@
 
 <div align="center">
 
-<img src="./assets/contributions.svg" width="100%" alt="Alisher Tuychiyev — GitHub contribution activity" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alisher-ds/alisher-ds/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alisher-ds/alisher-ds/output/github-contribution-grid-snake.svg">
+  <img alt="Alisher Tuychiyev — GitHub Contribution Activity" src="https://raw.githubusercontent.com/alisher-ds/alisher-ds/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
