@@ -1,69 +1,44 @@
-<div align="center">
+# Alisher Tuychiyev
 
-<img src="./assets/profile-header.svg" width="100%" alt="Alisher Tuychiyev — Machine Learning, AI Systems, Software Engineering" />
+Machine Learning student at Najot Ta'lim, based in Qarshi, Uzbekistan. I build with Python, LLM APIs and
+retrieval-augmented generation (RAG): Telegram bots, small ML pipelines and web apps.
 
-<br/>
+*Najot Ta'limda Machine Learning kursi talabasi, Qarshi, O'zbekiston. Python, LLM API va RAG yo'nalishida ishlayman.*
 
-<a href="https://github.com/alisher-ds"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=F0F6FC" /></a>
-<a href="https://www.linkedin.com/in/alisher-tuychiyev-9aa570349"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF" /></a>
-<a href="https://t.me/Alisher_Tuychiyev"><img src="https://img.shields.io/badge/Telegram-161B22?style=flat-square&logo=telegram&logoColor=58A6FF" /></a>
-<a href="mailto:alishertuuchiyev@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://alisher-portfolio-showcase.lovable.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=safari&logoColor=58A6FF" /></a>
+## Featured projects
 
-</div>
+| Project | What it is | Stack | Status |
+|:---|:---|:---|:---|
+| [**study-mate-bot**](https://github.com/alisher-ds/study-mate-bot) | Telegram study assistant: upload a PDF, ask questions about it, get a quiz or a summary. Answers come from retrieved chunks of the user's own documents. | Python, aiogram, ChromaDB, sentence-transformers, Groq | Working. Unit and integration tests (pytest), lint (Ruff) and CI on GitHub Actions. |
+| [**TG-BlogPost**](https://github.com/alisher-ds/TG-BlogPost) | Editorial assistant for a Telegram blog: research, drafting and a QA pass, then publishing only after explicit human approval. | TypeScript, Cloudflare Workers, D1, Gemini API | In development. Core pipeline is implemented; CI runs a type-check and automated test coverage is still limited. |
+| [**craigslist-car-price-prediction**](https://github.com/alisher-ds/craigslist-car-price-prediction) | Used-car price prediction on Craigslist listings: cleaning, feature engineering, four compared models and a Streamlit app. Best model reaches R² ≈ 0.93 on the held-out test set (`artifacts/metrics.json`). | Python, pandas, scikit-learn, LightGBM, Streamlit | Course project, complete. No CI. |
+| [**oydin-uz**](https://github.com/alisher-ds/oydin-uz) | Installable web app (PWA) for writing thoughts and connecting them on a visual map, with an optional AI chat. Live at [oydin-uz.pages.dev](https://oydin-uz.pages.dev). | JavaScript (no build step), Cloudflare Pages Functions, D1, Gemini API | Live. Unit tests, Playwright end-to-end tests, ESLint/Stylelint/Prettier in CI, security headers. |
 
-## Tech Stack
+## Other work
 
-<div align="center">
+| Project | What it is | Stack | Status |
+|:---|:---|:---|:---|
+| [Startup-tahlilchi](https://github.com/alisher-ds/Startup-tahlilchi) | Analyses a startup idea: market, competitors, business model. | TypeScript, React, Vite, Express, Gemini API | Prototype. No README or tests yet. |
+| [imkon-ai](https://github.com/alisher-ds/imkon-ai) | Concept for discovering jobs, internships, grants and courses in Uzbekistan. | Next.js, TypeScript, Supabase | **Archived MVP.** Development is paused (see its README). |
+| [shakhrisabz-heritage](https://github.com/alisher-ds/shakhrisabz-heritage) | Static website about the Historic Centre of Shakhrisabz. [Live site](https://alisher-ds.github.io/shakhrisabz-heritage/). | HTML, CSS, JavaScript | Published. |
+| [edubot-miniapp](https://github.com/alisher-ds/edubot-miniapp) | Telegram Mini App interface for learning ML. | React, Vite, Tailwind CSS | Early prototype. |
+| [edubot-pro](https://github.com/alisher-ds/edubot-pro) | Student Telegram bot: schedule, tasks, notes, goals. Its "AI helper" is a keyword lookup, not an LLM. | Python, aiogram | Early learning project. |
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,tailwind,postgres,supabase,cloudflare,docker,git,github,linux&perline=7&theme=dark" alt="Python, TypeScript, JavaScript, React, Next.js, Tailwind, PostgreSQL, Supabase, Cloudflare, Docker, Git, GitHub, Linux" />
+## Private project
 
-</div>
+Health-tech screening system (Django, PostgreSQL, Expo, Docker): private repository, details on request.
 
-<details>
-<summary><strong>Full breakdown</strong></summary>
-<br/>
+## Technologies
 
-`Python` · `TypeScript` · `JavaScript` · `React` · `Next.js` · `Tailwind CSS` · `FastAPI` · `Aiogram` · `PostgreSQL` · `Supabase` · `Cloudflare` · `Docker` · `GitHub Actions` · `RAG` · `Vector Search` · `LLM Agents`
+Used in the public repositories above:
 
-</details>
+- **Python and ML:** Python, pandas, NumPy, scikit-learn, LightGBM, Streamlit
+- **LLM and RAG:** ChromaDB, sentence-transformers, Groq API, Gemini API
+- **Bots:** aiogram, Telegram Bot API
+- **Web:** TypeScript, JavaScript, React, Next.js, Vite, Express, Tailwind CSS
+- **Platforms and data:** Cloudflare Workers and Pages, D1, Supabase, SQLite
+- **Quality and CI:** pytest, Ruff, Vitest, Playwright, ESLint, GitHub Actions
 
-## Repositories
+## Contact
 
-| Repository | What it is | Stack |
-|:---|:---|:---|
-| [**TG-BlogPost**](https://github.com/alisher-ds/TG-BlogPost) | Agentic Telegram content automation | TypeScript · Cloudflare · AI Agents |
-| [**Imkon AI**](https://github.com/alisher-ds/imkon-ai) | Opportunity discovery platform | Next.js · TypeScript · Supabase |
-| [**Oydin**](https://github.com/alisher-ds/oydin-uz) | Visual workspace for mapping ideas | JavaScript · Cloudflare · AI |
-| [**Study Mate Bot**](https://github.com/alisher-ds/study-mate-bot) | RAG-based learning assistant | Python · RAG · Embeddings |
-| [**EduBot MiniApp**](https://github.com/alisher-ds/edubot-miniapp) | Telegram educational mini app | JavaScript · Telegram · AI |
-| [**EduBot Pro**](https://github.com/alisher-ds/edubot-pro) | Educational AI project | Python · AI |
-| [**Startup Tahlilchi**](https://github.com/alisher-ds/Startup-tahlilchi) | AI-assisted startup analysis | Python · AI |
-
-## Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alisher-ds/alisher-ds/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alisher-ds/alisher-ds/output/github-contribution-grid-snake.svg">
-  <img alt="Alisher Tuychiyev — GitHub Contribution Activity" src="https://raw.githubusercontent.com/alisher-ds/alisher-ds/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<p align="center"><sub>Contribution activity · refreshed automatically</sub></p>
-
-<!-- Automated profile sync & metrics powered by GitHub Actions GraphQL pipeline -->
-
----
-
-<div align="center">
-
-<a href="https://github.com/alisher-ds">GitHub</a> ·
-<a href="https://www.linkedin.com/in/alisher-tuychiyev-9aa570349">LinkedIn</a> ·
-<a href="https://t.me/Alisher_Tuychiyev">Telegram</a> ·
-<a href="mailto:alishertuuchiyev@gmail.com">Email</a> ·
-<a href="https://alisher-portfolio-showcase.lovable.app">Portfolio</a>
-
-</div>
+[GitHub](https://github.com/alisher-ds) · [Telegram](https://t.me/Alisher_Tuychiyev) · [Portfolio](https://alisher-portfolio-showcase.lovable.app)
