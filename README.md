@@ -1,6 +1,6 @@
 # Alisher Tuychiyev
 
-Machine Learning student at Najot Ta'lim, based in Qarshi, Uzbekistan. I build with Python, LLM APIs and
+Machine Learning Engineer, based in Qarshi, Uzbekistan. I build with Python, LLM APIs and
 retrieval-augmented generation (RAG): Telegram bots, small ML pipelines and web apps.
 
 *Najot Ta'limda Machine Learning kursi talabasi, Qarshi, O'zbekiston. Python, LLM API va RAG yo'nalishida ishlayman.*
